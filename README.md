@@ -3,8 +3,6 @@
 </p>
 
 ---
-<p align="center">
-    <strong>emphasys</strong>
-</p>
+<h1 align="center">emphasys</h1>
 
 ---
