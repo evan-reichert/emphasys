@@ -19,7 +19,7 @@
 
 ## About
 
-**Emphasys** is a React-based UI framework focused on making structured, responsive layouts faster to build.
+**emphasys** is a React-based UI framework focused on making structured, responsive layouts faster to build.
 
 Instead of repeatedly writing the same grid, card, spacing, and responsive layout boilerplate, Emphasys provides reusable components and UI scaffolding that developers can build upon.
 
