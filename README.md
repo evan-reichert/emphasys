@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Emphasys Logo" src="src/assets/emphasys-logo.png" width="300" />
+    <img alt="Emphasys Logo" src="src/assets/emphasys-logo.png"/>
 </p>
 
 <h1 align="center">emphasys</h1>
